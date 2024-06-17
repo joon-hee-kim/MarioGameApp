@@ -7,8 +7,9 @@ I was interested in the Nintendo Mario game, so I created a Mario game app using
 
 
 ## Output
-* This is a video of the program practice.
-<img src="https://github.com/joon-hee-kim/MarioGameApp/issues/1#issue-2357676875">
+* This is a video of the program practice. </br>
+![mario_vs_bowser](https://github.com/joon-hee-kim/MarioGameApp/assets/121689436/024d3365-4935-451a-9b5a-57a70d94c2bf) </br>
+
 
 ## Algorithm
 
