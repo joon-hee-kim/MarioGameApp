@@ -4,7 +4,7 @@ This is the result of Mario game app that I created.
 
 ## Motivation
 I was interested in the Nintendo Mario game, so I created a Mario game app using Java in Android Studio by referring to YouTube and Google on my own.
-
+<img src="">
 
 ## Output
 * This is a video of the program practice.
