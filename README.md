@@ -12,17 +12,17 @@ I was interested in the Nintendo Mario game, so I created a Mario game app using
 
 * **Photo** of ""Mario vs Bowser Junior" </br>
 <a href="https://github.com/joon-hee-kim/MarioGameApp">
-    &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/joon-hee-kim/MarioGameApp/assets/121689436/8855a495-363d-4008-b617-315b74f8b710" width="50%" height="50%">
+    &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/joon-hee-kim/MarioGameApp/assets/121689436/8855a495-363d-4008-b617-315b74f8b710" width="60%" height="60%">
 </a> </br></br>
 
 * **Photo** of ""Luiji vs Bowser Junior" </br>
 <a href="https://github.com/joon-hee-kim/MarioGameApp">
-    &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/joon-hee-kim/MarioGameApp/assets/121689436/bee199d3-1a55-4b38-ae17-619385191e1d" width="50%" height="50%">
+    &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/joon-hee-kim/MarioGameApp/assets/121689436/bee199d3-1a55-4b38-ae17-619385191e1d" width="60%" height="60%">
 </a> </br></br>
 
 * **Photo** of "Luiji vs Bowser" </br>
 <a href="https://github.com/joon-hee-kim/MarioGameApp">
-    &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/joon-hee-kim/MarioGameApp/assets/121689436/e0d2d2b3-1f4e-4873-ade8-140fbaf59192" width="50%" height="50%">
+    &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/joon-hee-kim/MarioGameApp/assets/121689436/e0d2d2b3-1f4e-4873-ade8-140fbaf59192" width="60%" height="60%">
 </a> </br></br>
 
 
