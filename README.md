@@ -9,11 +9,13 @@ I was interested in the Nintendo Mario game, so I created a Mario game app using
 ## Project Structure
 <img width="897" alt="스크린샷 2024-06-18 오전 11 44 29" src="https://github.com/joon-hee-kim/MarioGameApp/assets/121689436/643e6acd-5675-4cf4-99d8-e3e5ece96968"> </br>
 
+For simplicity, I have implemented class diagrams with class names only. </br>
+
 1. MainActivity.java: </br>
 - Serves as the main entry point to the application. (Two-player play has not been implemented yet) </br>
  
 2. SelActivity.java: </br>
-- Allow users to select a character (Mario, Luiji) before starting the game. </br> 
+- Allow users to select a character (Mario, Luiji) before starting the game. </br> </br> 
 
 3. WldActivity.java: </br>
 - Allows users to select which world (level) they want to play in the game. World = Cupa Junior, Cupa. “Cupa” == “Bowser” </br>
@@ -25,7 +27,7 @@ I was interested in the Nintendo Mario game, so I created a Mario game app using
 5. Game.java: </br>
 - This file contains the core game logic and mechanics. </br>
 - Manages game state, updates game elements (e.g. Mario and enemies), and renders game graphics. </br>
-- Handles interactions between game objects and maintains game rules. </br>
+- Handles interactions between game objects and maintains game rules. </br></br>
 
 6. EndActivity.java: </br>
 - The game end screen is displayed with some reference to actual Nintendo Mario game footage and shows the final score or result. </br>
