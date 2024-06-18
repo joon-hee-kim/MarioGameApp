@@ -6,6 +6,35 @@ This is the result of Mario game app that I created.
 I was interested in the Nintendo Mario game, so I created a Mario game app using Java in Android Studio by referring to YouTube and Google on my own.
 
 
+## Project Structure
+<img width="900" alt="스크린샷 2024-06-18 오전 10 11 58" src="https://github.com/joon-hee-kim/MarioGameApp/assets/121689436/40b0f4d9-7bfc-48c7-9a1e-26ee0bb9efce"> </br>
+
+1. MainActivity.java: </br>
+- Serves as the main entry point to the application. (Two-player play has not been implemented yet) </br>
+ 
+2. SelActivity.java: </br>
+- Allow users to select a character (Mario, Luiji) before starting the game. </br> 
+ 
+3. PlayActivity.java: </br>
+- This is the main activity where actual game play takes place. </br>
+- Handles game logic such as game loops, user input, collisions, score updates, game over conditions, etc. </br>
+ 
+4. Game.java: </br>
+- This file contains the core game logic and mechanics. </br>
+- Manages game state, updates game elements (e.g. Mario and enemies), and renders game graphics. </br>
+- Handles interactions between game objects and maintains game rules. </br>
+ 
+5. WldActivity.java: </br>
+- Allows users to select which world (level) they want to play in the game. World = Cupa Junior, Cupa. “Cupa” == “Bowser” </br>
+ 
+6. EndActivity.java: </br>
+- The game end screen is displayed with some reference to actual Nintendo Mario game footage and shows the final score or result. </br>
+- When finished, go back to MainActivity.java. </br>
+ 
+7. DeadActivity.java: </br>
+- Handles scenarios when a player loses a life. </br>
+- When finished, go back to MainActivity.java. </br>
+
 ## Output
 * **Video** of "Mario vs Bowser" (**A little loading!**) </br>
 ![mario_vs_bowser](https://github.com/joon-hee-kim/MarioGameApp/assets/121689436/024d3365-4935-451a-9b5a-57a70d94c2bf) </br></br>
@@ -24,9 +53,6 @@ I was interested in the Nintendo Mario game, so I created a Mario game app using
 <a href="https://github.com/joon-hee-kim/MarioGameApp">
     &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/joon-hee-kim/MarioGameApp/assets/121689436/e0d2d2b3-1f4e-4873-ade8-140fbaf59192" width="55%" height="55%">
 </a> </br></br>
-
-
-## Algorithm
 
  
 ## ✔️ Source
