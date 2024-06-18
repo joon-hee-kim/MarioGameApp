@@ -7,7 +7,7 @@ I was interested in the Nintendo Mario game, so I created a Mario game app using
 
 
 ## Project Structure
-<img width="900" alt="스크린샷 2024-06-18 오전 10 11 58" src="https://github.com/joon-hee-kim/MarioGameApp/assets/121689436/40b0f4d9-7bfc-48c7-9a1e-26ee0bb9efce"> </br>
+<img width="897" alt="스크린샷 2024-06-18 오전 11 44 29" src="https://github.com/joon-hee-kim/MarioGameApp/assets/121689436/643e6acd-5675-4cf4-99d8-e3e5ece96968"> </br>
 
 1. MainActivity.java: </br>
 - Serves as the main entry point to the application. (Two-player play has not been implemented yet) </br>
