@@ -14,19 +14,19 @@ I was interested in the Nintendo Mario game, so I created a Mario game app using
  
 2. SelActivity.java: </br>
 - Allow users to select a character (Mario, Luiji) before starting the game. </br> 
+
+3. WldActivity.java: </br>
+- Allows users to select which world (level) they want to play in the game. World = Cupa Junior, Cupa. “Cupa” == “Bowser” </br>
  
-3. PlayActivity.java: </br>
+4. PlayActivity.java: </br>
 - This is the main activity where actual game play takes place. </br>
 - Handles game logic such as game loops, user input, collisions, score updates, game over conditions, etc. </br>
  
-4. Game.java: </br>
+5. Game.java: </br>
 - This file contains the core game logic and mechanics. </br>
 - Manages game state, updates game elements (e.g. Mario and enemies), and renders game graphics. </br>
 - Handles interactions between game objects and maintains game rules. </br>
- 
-5. WldActivity.java: </br>
-- Allows users to select which world (level) they want to play in the game. World = Cupa Junior, Cupa. “Cupa” == “Bowser” </br>
- 
+
 6. EndActivity.java: </br>
 - The game end screen is displayed with some reference to actual Nintendo Mario game footage and shows the final score or result. </br>
 - When finished, go back to MainActivity.java. </br>
